@@ -1,14 +1,14 @@
 {
-	"geode": "4.6.3",
+	"geode": "5.0.0-beta.3",
 	"gd": {
-		"win": "2.2074",
-		"android": "2.2074",
-		"mac": "2.2074",
-		"ios": "2.2074"
+		"win": "2.2081",
+		"android": "2.2081",
+		"mac": "2.2081",
+		"ios": "2.2081"
 	},
 	"id": "capeling.spawn_trigger_coins",
 	"name": "Spawn Trigger Coins",
-	"version": "v1.0.1",
+	"version": "v1.0.2",
 	"developer": "Capeling",
 	"description": "Adds spawn trigger ability to user coins",
 	"links": {
